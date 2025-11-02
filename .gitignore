@@ -1,1 +1,16 @@
 ca-key.pem
+*.pem
+/vendor/
+/node_modules/
+/dist/
+/.nuxt/
+/.DS_Store
+
+.env
+.env.*.backup
+
+backend/src/storage/firebase/
+backend/docker/mysql/data/
+
+
+
