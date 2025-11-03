@@ -17,4 +17,4 @@ ca-key.pem
 /storage/debugbar/*
 
 backend/src/storage/firebase/
-backend/docker/mysql/data/
+/backend/docker/mysql/data/
