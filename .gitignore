@@ -9,8 +9,11 @@ ca-key.pem
 .env
 .env.*.backup
 
-backend/src/storage/firebase/
-backend/docker/mysql/data/
-
+/storage/*.key
+/storage/*.log
+/storage/*.cache
+/storage/framework/*
+/storage/logs/*
+/storage/debugbar/*
 
 
